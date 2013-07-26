@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:0,ULUSAL TV
-rtmp://174.127.77.205:1935/ulusaltv/livestream
 #EXTINF:0,TRT 1 Seçenek 2
 mms://yayin.canlitv.com/trt1
 #EXTINF:0,TRT HABER
