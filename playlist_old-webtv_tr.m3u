@@ -67,6 +67,22 @@ mms://yayin.canlitv.com/MalatyaGunesTV
 http://strm-i.glb.pr.medianova.tv:1935/haberturk/haberturk2/playlist.m3u8
 #EXTINF:0,Halis TV
 mms://yayin5.canliyayin.org/halistv
+#EXTINF:0,HD SİNEMA
+http://yayin7.canliyayin.org/sinema
+#EXTINF:0,HD SİNEMA 1
+http://yayin7.canliyayin.org/sinema1
+#EXTINF:0,HD SİNEMA 2
+http://yayin7.canliyayin.org/sinema2
+#EXTINF:0,HD SİNEMA 3
+http://yayin7.canliyayin.org/sinema3
+#EXTINF:0,HD SİNEMA 4
+http://yayin7.canliyayin.org/sinema4
+#EXTINF:0,HD SİNEMA 5
+http://yayin7.canliyayin.org/sinema5
+#EXTINF:0,HD SİNEMA 6
+http://yayin7.canliyayin.org/sinema6
+#EXTINF:0,HD SİNEMA TÜRK
+http://yayin7.canliyayin.org/sinematurk
 #EXTINF:0,Hilal Tv
 mms://yayin3.canliyayin.org/hilaltv
 #EXTINF:0,KADİRLİ TV
