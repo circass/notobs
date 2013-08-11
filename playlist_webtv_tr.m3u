@@ -181,6 +181,8 @@ mms://95.0.159.131/TV3
 mms://213.142.142.213/turkmenelitv
 #EXTINF:0,TV 1(Turkey)
 rtmp://stream.taksimbilisim.com:1935/tv1/bant1
+#EXTINF:0,TV2
+rtmp://live.dtv.cubecdn.net/tv2/TV2_3
 #EXTINF:0,TV 5 (Turkey)
 mmsh://yayin3.canliyayin.org/tv5
 #EXTINF:0,Elif TV (Kayseri)
