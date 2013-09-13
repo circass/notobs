@@ -67,6 +67,8 @@ mms://yayin.canlitv.com/MalatyaGunesTV
 http://strm-i.glb.pr.medianova.tv:1935/haberturk/haberturk2/playlist.m3u8
 #EXTINF:0,Halis TV
 mms://yayin5.canliyayin.org/halistv
+#EXTINF:0,Halk TV
+http://iphone-streaming.ustream.tv/ustreamVideo/14903279/streams/live/playlist.m3u8
 #EXTINF:0,HD SİNEMA
 http://yayin7.canliyayin.org/sinema
 #EXTINF:0,HD SİNEMA 1
