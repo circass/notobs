@@ -125,6 +125,10 @@ http://karltvhls-i.akamaihd.net/hls/live/207034/KarlTV-HLS/stream1/streamPlaylis
 http://doguslive-i.akamaihd.net/hls/live/205669/kralpopsd/stream1/streamPlaylist.m3u8
 #EXTINF:0,Marmara TV
 mms://yayin3.canliyayin.org/marmaratv
+#EXTINF:0,Number One TV
+http://91.121.184.49:1935/live/nr2.sdp/playlist.m3u8
+#EXTINF:0,Number One Türk
+http://91.121.184.49:1935/live/nr1_turk.sdp/playlist.m3u8
 #EXTINF:0,NTV
 mms://85.111.3.55/ntv
 #EXTINF:0,Ntv
