@@ -85,6 +85,8 @@ http://yayin7.canliyayin.org/sinema6
 http://yayin7.canliyayin.org/sinematurk
 #EXTINF:0,Hilal Tv
 mms://yayin3.canliyayin.org/hilaltv
+#EXTINF:0,Hürriyet Tv (DHA)
+http://hurriyet.mobil2.cubecdn.net/hurriyettv/stream_1.m3u8
 #EXTINF:0,KADİRLİ TV
 mms://yayin.canlitv.com/kadirlitv
 #EXTINF:0,Kanal 26
