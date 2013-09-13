@@ -29,6 +29,8 @@ mms://bms.brtk.net/brt2
 rtmp://stream.yayindayiz.biz:80/Bursaspor/bursaspor
 #EXTINF:0,cartoon
 rtsp://72.13.93.186/campcartoon
+#EXTINF:0,Capital TV
+rtmp://cdn-the-2.musicradio.com:80/LiveVideo/Capital
 #EXTINF:0,ÇAPUL TV
 rtmp://s9.tilda.com.tr:80/live/Stream1
 #EXTINF:0,CİNE5
